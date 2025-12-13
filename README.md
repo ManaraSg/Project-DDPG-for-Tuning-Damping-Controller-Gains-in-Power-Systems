@@ -7,7 +7,7 @@ This project integrates **DIgSILENT PowerFactory** with a **DDPG agent** to opti
 
 ## Repository Contents
 ```
-DDPG-for-Tuning-Damping-Controller-Gains-in-Power-Systems/
+Project-DDPG-for-Tuning-Damping-Controller-Gains-in-Power-Systems/
 │
 ├── ddpg_based_damping_control_powerfactory.ipynb  # Main implementation notebook
 ├── requirements.txt                                # Python dependencies
